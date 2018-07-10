@@ -12,7 +12,7 @@ namespace NetCore2GitHub.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Your contact 12 page.";
         }
     }
 }
